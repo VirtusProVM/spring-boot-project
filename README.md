@@ -2,7 +2,7 @@ Job Portal Web Application(Backend)
 
 Used Languages: • Java
 
-Used Technologies and Frameworks • Spring Boot • Hibernate
+Used Technologies and Frameworks • Spring Boot • Hibernate/JPA
 
 Used Database • MySQL
 
